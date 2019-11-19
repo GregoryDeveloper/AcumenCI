@@ -1,6 +1,0 @@
-E:\Programmation\Test\AcumenCI\AcuCafe\AcuCafe\AcuCafe\bin\Release\AcuCafe.dll
-E:\Programmation\Test\AcumenCI\AcuCafe\AcuCafe\AcuCafe\bin\Release\AcuCafe.pdb
-E:\Programmation\Test\AcumenCI\AcuCafe\AcuCafe\AcuCafe\obj\Release\AcuCafe.csproj.CoreCompileInputs.cache
-E:\Programmation\Test\AcumenCI\AcuCafe\AcuCafe\AcuCafe\obj\Release\AcuCafe.dll
-E:\Programmation\Test\AcumenCI\AcuCafe\AcuCafe\AcuCafe\obj\Release\AcuCafe.pdb
-E:\Programmation\Test\AcumenCI\AcuCafe\AcuCafe\AcuCafe\obj\Release\AcuCafe.csprojAssemblyReference.cache
